@@ -2,7 +2,7 @@
 #### Full Stack Developer | Student
 
 📫 How to reach me <br/>
-🌱 I’m currently learning NodeJS,ExpressJS,ReactJS,NextJS<br/>
+🌱 I’m currently learning NodeJS,ExpressJS,ReactJS React Native,NextJS<br/>
 
 ### Reach out to me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:bozdemir.ib70@gmail.com)](mailto:bozdemir.ib70@gmail.com)
