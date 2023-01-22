@@ -1,4 +1,4 @@
-### Hi there I'm Ilyas Bozdemir :blush:
+### Hi there I'm Ilyas Bozdemir
 #### Full Stack Developer
 
 📫 How to reach me <br/>
