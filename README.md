@@ -1,5 +1,5 @@
 ### Hi there I'm Ilyas Bozdemir :blush:
-#### Full Stack Developer | Student
+#### Full Stack Developer
 
 📫 How to reach me <br/>
 🌱 I’m currently learning NodeJS,ExpressJS,ReactJS React Native,NextJS<br/>
