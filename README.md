@@ -9,7 +9,7 @@
 ### Reach out to me
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?logo=Gmail&logoColor=white&link=mailto:bozdemir.ib70@gmail.com)](mailto:bozdemir.ib70@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://www.instagram.com/bozdemirilyas1/)](https://www.instagram.com/bozdemirilyas1/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ilyas-bozdemir-093087207/)](https://www.linkedin.com/in/ilyas-bozdemir-093087207/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0072b1?logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bozdemir-ilyas/)](https://www.linkedin.com/in/bozdemir-ilyas/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ilyasBozdemir)
 
 
